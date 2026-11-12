@@ -197,4 +197,4 @@ This repository serves as the official landing page for Euro Truck Simulator 2 S
 **Get the most recent version of Euro Truck Simulator 2 SCANIA V8 Skin today!**
 
 ---
-**Last updated:** 2026-11-12 08:53:36 UTC
+**Last updated:** 2026-11-12 17:10:27 UTC
